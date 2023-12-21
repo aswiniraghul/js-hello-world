@@ -4,8 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello, World!")
+console.log("\"sum of\" 2+2 is :", 2+2);
+console.log('Coding Rocks')
+console.log("message1" + " " + "message2")
+let a=1;
+const b=a+1;
+console.log(b);
+console.log(typeof (5));
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
